@@ -7,8 +7,8 @@
     - разбиение на train/val/test части
     - создание dataloader'ов- **1 балл**
 2. **2 балла** Создайте класс модели `FashionMNIST` (наследник `LightningModule`), реализуйте в нем:
-    - train_step, val_step, test_step
-    - расчет метрик на валидации и тестировании из torchmetrics: F1, ROC AUC
+    - training_step, validation_step, test_step
+    - расчет метрик на валидации и тестировании из TorchMetrics: F1, ROC AUC
     - логирование метрик и функций потерь на каждой эпохе валидации/теста
     - подберите подходящие, на ваш взгляд, optimizer и lr-scheduler, а также их гиперпараметры
 3. **1 балл** Обучите модель с помощью trainer'а:
