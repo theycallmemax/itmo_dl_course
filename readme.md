@@ -24,3 +24,5 @@ ______
 | #    |   Тема   |  Max Балл | Жесткий Дедлайн |
 |------|----------|-----------|-----------------|
 | [Extra Task 1](HW/itmo_dl_course_extra_task_1.md) | Создание и обучение MLP | 5 | 31.12.2024 20:00 МСК|
+| [Extra Task 2](HW/itmo_dl_course_extra_task_2.md) | Классификатор FashionMNIST на PyTorch Lightning | 5 | 18.01.2024 20:00 МСК|
+
