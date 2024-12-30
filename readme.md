@@ -7,6 +7,7 @@
 
 
 - [2.1 Функции потерь, сверточные сети (28.12.2024)](Lecture%207)
+- [2.2 PyTorch Lightning, Learning Rate Schedulers (30.12.2024)](Lecture%208)
 
 ______
 
