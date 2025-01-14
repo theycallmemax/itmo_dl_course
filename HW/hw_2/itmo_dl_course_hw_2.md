@@ -2,7 +2,8 @@
 
 В этом задании вам предстоит воспроизвести и обучить одну из самых знаменитых архитектур среди CV-моделей - AlexNet.
 
-![image](https://gist.github.com/user-attachments/assets/b32fcf2d-7465-428b-9949-021f7e788b6b)
+![image](https://github.com/user-attachments/assets/7073f6d5-397e-4537-8b98-07a649673c0c)
+
 
 Данная модель была представлена в статье [ImageNet Classification with Deep Convolutional
 Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
