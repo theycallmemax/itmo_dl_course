@@ -28,7 +28,7 @@ ______
 | [Extra Task 1](HW/itmo_dl_course_extra_task_1.md) | Создание и обучение MLP | 5 | 31.12.2024 20:00 МСК|
 | [Extra Task 2](HW/itmo_dl_course_extra_task_2.md) | Классификатор FashionMNIST на PyTorch Lightning | 5 | 18.01.2025 20:00 МСК|
 | [Extra Task 3](HW/itmo_dl_course_extra_task_3.md) | Классификация текстов с CNN и RNN | 5 | 25.01.2025 20:00 МСК|
-
+| [Extra Task 4](HW/itmo_dl_course_extra_task_4.md) | Классификация текстов с transformers | 5 | 28.01.2025 18:00 МСК|
 ______
 
 #### Соревнование
