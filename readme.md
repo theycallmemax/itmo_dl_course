@@ -8,8 +8,11 @@
 
 - [2.1 Функции потерь, сверточные сети (28.12.2024)](Lecture%207)
 - [2.2 PyTorch Lightning, Learning Rate Schedulers (30.12.2024)](Lecture%208)
-- [2.3 Dropout2d, BatchNorm2d, NLP basics (13.01.2025)](Lecture%209)
 
+
+- [3.1 Dropout2d, BatchNorm2d, NLP basics (13.01.2025, 17.01.2025)](Lecture%209)
+
+- [4.1 Huggingface Transformers (20.01.2025)](Lecture%2010)
 ______
 
 #### Домашние задания
